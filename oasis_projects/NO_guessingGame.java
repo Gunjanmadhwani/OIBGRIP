@@ -1,4 +1,4 @@
-package oasis_projects;
+package Oasis;
 import java.util.Random;
 import java.util.Scanner;
 class Game{
